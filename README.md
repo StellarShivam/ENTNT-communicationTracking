@@ -95,4 +95,4 @@ This project has been build by Shivam Anand from IIIT Sonepat.
 ## Contact
 SHIVAM ANAND - shivam.anand.216@gmail.com
 
-Deployed Project Link: https://luminous-churros-7fb94d.netlify.app/
+Deployed Project Link: https://clever-gecko-9eabbb.netlify.app/
